@@ -1,6 +1,6 @@
 ## Hi! I'm Matheus 👋
 
-[![Blog](https://img.shields.io/website?label=zFreshy.com&style=for-the-badge&url=https://sujeitoprogramador.com)](https://zFreshy.com.br)
+[![Blog](https://img.shields.io/website?label=zFreshy.com&style=for-the-badge&url=https://sujeitoprogramador.com)](https://freshportfolio-beta.vercel.app/)
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yuriiborr) -->
 
 <!-- Dropdown -->
