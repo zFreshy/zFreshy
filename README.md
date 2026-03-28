@@ -7,7 +7,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬I'm 17 years old, and i currently live in Brazil. I've started programming in 2021, creating games and developing my programming logic. Im fluent in portuguese from brazil and english. I have experience with HTML, CSS, DB, NodeJs, GML, JavaScript, APIs, AIs, Bootstrap... I also know how to work with servers, carrying out various jobs at SESI and SENAI, which ended up helping me develop important skills such as creativity, communication, marketing, analytical skills, etc.
+  - 💬I'm 18 years old, and i currently live in Brazil. I've started programming in 2021, creating games and developing my programming logic. Im fluent in portuguese from brazil and english. I have experience with HTML, CSS, DB, NodeJs, GML, JavaScript, APIs, AIs, Bootstrap... I also know how to work with servers, carrying out various jobs at SESI and SENAI, which ended up helping me develop important skills such as creativity, communication, marketing, analytical skills, etc.
 
   - ⚡ I enjoy playing games and programming, i'm often in front of my computer studying or doing sometehing, because my PC is basically my life. 
 </details>
